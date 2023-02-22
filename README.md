@@ -2,6 +2,7 @@
 A game based on [KShootMania](http://www.kshootmania.com/) and [SDVX](https://remywiki.com/What_is_SOUND_VOLTEX).
 
 ### [**Download latest Windows build**](https://drewol.me/Downloads/Game.zip)
+### [**Download latest Linux build**](https://github.com/Natsuhane-Ayari/unnamed-sdvx-clone/releases/download/v0.5.0/usc-game-v0.5.0.tar.gz)
 
 ### [**FAQ**](https://github.com/Drewol/unnamed-sdvx-clone/wiki/F.-A.-Q.)
 
@@ -58,7 +59,7 @@ If something breaks in the song database, delete "maps.db". **Please note this w
 - \[BT-B + BT-C\] Add song to collection (such as favourites)
 
 ## How to run:
-Just run 'usc-game' or 'usc-game_Debug' from within the 'bin' folder.
+Just run 'usc-game.sh'.
 
 #### Command line flags (all are optional):
 - `-notitle` - Skips the title menu launching the game directly into song select.
