@@ -2,7 +2,7 @@
 A game based on [KShootMania](http://www.kshootmania.com/) and [SDVX](https://remywiki.com/What_is_SOUND_VOLTEX).
 
 ### [**Download latest Windows build**](https://drewol.me/Downloads/Game.zip)
-### [**Download latest Linux build**](https://github.com/Natsuhane-Ayari/unnamed-sdvx-clone/releases/download/v0.5.0-2/usc-game-v0.5.0.tar.gz)
+### [**Download latest Linux build**](https://github.com/Natsuhane-Ayari/unnamed-sdvx-clone/releases/download/v0.5.0/usc-game-v0.5.0.tar.gz)
 
 ### [**FAQ**](https://github.com/Drewol/unnamed-sdvx-clone/wiki/F.-A.-Q.)
 
