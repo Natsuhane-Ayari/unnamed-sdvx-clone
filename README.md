@@ -3,6 +3,11 @@ A game based on [KShootMania](http://www.kshootmania.com/) and [SDVX](https://re
 
 ### [**Download latest Windows build**](https://drewol.me/Downloads/Game.zip)
 ### [**Download latest Linux build**](https://github.com/Natsuhane-Ayari/unnamed-sdvx-clone/releases/download/v0.5.0/usc-game-v0.5.0.tar.gz)
+### [**Download latest Arch Package**](https://github.com/Natsuhane-Ayari/unnamed-sdvx-clone/releases/download/v0.5.0-2/unnamed-sdvx-clone-bin-0.5.0-1-x86_64.pkg.tar.zst)
+```sh
+#Or install it from AUR with the command
+yay -S unnamed-sdvx-clone-bin
+```
 
 ### [**FAQ**](https://github.com/Drewol/unnamed-sdvx-clone/wiki/F.-A.-Q.)
 
@@ -32,6 +37,16 @@ A game based on [KShootMania](http://www.kshootmania.com/) and [SDVX](https://re
 - Lighting peripheral support
 - More gauge types
 
+### Download Charts Quickly
+- The ```usc-dlcha``` command is added to download Chart more convenientl
+<br>Visit the [KSM](https://ksm.dev/) website, right click on **download**, and copy the link<br>
+![Copy link](https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/1.jpeg)
+<br>Use the usc-dlcha command on the terminal, Ctrl+Shift+V to paste the link and press Enter, you can quickly download the Chart and import it into the game<br>
+<img align="left" alt="usc-dlcha" width="40%" src="https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/Screenshot_20230818_201022.png">
+<img alt="In Game" width="50%" src="https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/2.jpeg">
+
+
+#
 If something breaks in the song database, delete "maps.db". **Please note this will also wipe saved scores.**
 
 ## Controls
