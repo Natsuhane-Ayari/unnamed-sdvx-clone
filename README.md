@@ -37,7 +37,7 @@ yay -S unnamed-sdvx-clone-bin
 - Lighting peripheral support
 - More gauge types
 
-### Download Charts Quickly
+### A better way to download Charts
 - The ```usc-dlcha``` command is added to download Chart more convenientl
 <br>Visit the [KSM](https://ksm.dev/) website, right click on **download**, and copy the link<br>
 ![Copy link](https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/1.jpeg)
