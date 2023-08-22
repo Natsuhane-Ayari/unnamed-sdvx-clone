@@ -42,8 +42,8 @@ yay -S unnamed-sdvx-clone-bin
 <br>Visit the [KSM](https://ksm.dev/) website, right click on **download**, and copy the link<br>
 ![Copy link](https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/1.jpeg)
 <br>Use the usc-dlcha command on the terminal, Ctrl+Shift+V to paste the link and press Enter, you can quickly download the Chart and import it into the game<br>
-<img align="left" alt="usc-dlcha" width="40%" src="./Screenshot/Screenshot_20230818_201022.png">
-<img alt="In Game" width="55%" src="https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/2.jpeg">
+<img align="left" alt="usc-dlcha" src="./Screenshot/Screenshot_20230818_201022.png">
+<img alt="In Game" src="https://raw.githubusercontent.com/Natsuhane-Ayari/unnamed-sdvx-clone/develop/Screenshot/2.jpeg">
 
 
 #
